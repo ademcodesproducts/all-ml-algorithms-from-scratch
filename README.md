@@ -16,7 +16,11 @@ A hands-on project for showcasing my data science fundamentals by implementing m
 │   ├── random_forests.py
 │   ├── naive_bayes.py
 │   ├── neural_network.py
-│   └── support_vector_machine.py
+│   ├── support_vector_machine.py
+│   ├── gradient_boosting.py
+│   ├── adaboost.py
+│   ├── pca.py
+│   └── dbscan.py
 ├── brazilian_ecom_data/         # Brazilian e-commerce dataset
 ├── price_prediction_data/       # Price prediction dataset
 ├── evaluation_metrics.py        # Classification & regression metrics
@@ -31,7 +35,9 @@ A hands-on project for showcasing my data science fundamentals by implementing m
 |---|---|
 | **Regression** | Linear Regression, Polynomial Regression |
 | **Classification** | Logistic Regression, KNN, Decision Trees, Random Forests, Naive Bayes, SVM |
-| **Clustering** | K-Means |
+| **Ensemble (Boosting)** | Gradient Boosting, AdaBoost |
+| **Clustering** | K-Means, DBSCAN |
+| **Dimensionality Reduction** | PCA |
 | **Deep Learning** | Neural Network |
 
 ### Evaluation Metrics
