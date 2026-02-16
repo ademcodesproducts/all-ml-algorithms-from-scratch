@@ -1,6 +1,5 @@
 import numpy as np
 
-
 class EvaluationMetrics:
     """Combined classification and regression metrics in one class to demonstrate OOP understanding.
     In production, these would typically be standalone functions like sklearn.metrics does it.
