@@ -23,6 +23,7 @@ A hands-on project for showcasing my data science fundamentals by implementing m
 │   └── dbscan.py
 ├── brazilian_ecom_data/         # Brazilian e-commerce dataset
 ├── price_prediction_data/       # Price prediction dataset
+├── common_functions.py           # Shared building blocks (losses, activations, etc.)
 ├── evaluation_metrics.py        # Classification & regression metrics
 └── data_loader.py               # Data loading utilities
 ```
@@ -39,6 +40,15 @@ A hands-on project for showcasing my data science fundamentals by implementing m
 | **Clustering** | K-Means, DBSCAN |
 | **Dimensionality Reduction** | PCA |
 | **Deep Learning** | Neural Network |
+
+### Common Functions
+
+| Category | Functions |
+|---|---|
+| **Optimization** | Gradient Descent (Batch, Stochastic, Mini-Batch) |
+| **Loss Functions** | Cross-Entropy, NLL, MSE, Hinge Loss |
+| **Activation Functions** | Sigmoid, ReLU, Leaky ReLU, Tanh, Softmax |
+| **Regularization** | L1 (Lasso), L2 (Ridge) |
 
 ### Evaluation Metrics
 
